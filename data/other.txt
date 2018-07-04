@@ -1,0 +1,28 @@
+Fitting 3 folds for each of 96 candidates, totalling 288 fits
+Best score: 0.810
+Out the best parameters
+	CV__max_df: 0.5
+	CV__max_features: None
+	CV__ngram_range: (1, 2)
+	SGD__alpha: 1e-05
+	SGD__n_iter: 10
+	TF__use_idf: True
+Fitting 3 folds for each of 96 candidates, totalling 288 fits
+Best score: 0.814
+Out the best parameters
+	CV__max_df: 0.85
+	CV__max_features: None
+	CV__ngram_range: (1, 2)
+	SGD__alpha: 1e-05
+	SGD__n_iter: 50
+	TF__use_idf: True
+Fitting 3 folds for each of 96 candidates, totalling 288 fits
+Best score: 0.812
+Out the best parameters
+	CV__max_df: 0.95
+	CV__max_features: None
+	CV__ngram_range: (1, 2)
+	SGD__alpha: 1e-05
+	SGD__n_iter: 1
+	TF__use_idf: True
+Fitting 3 folds for each of 6144 candidates, totalling 18432 fits
